@@ -18,5 +18,5 @@ print (m)
 #de verdad sirve
 print ("Comida")
 
-Print ("Jueguete")
+Print ("Juguete")
 #Buenas people
